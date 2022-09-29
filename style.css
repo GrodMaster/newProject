@@ -71,7 +71,7 @@ main{
     background: linear-gradient(180deg, #242B33 11.98%, 
     rgba(45, 52, 60, 0.38) 51.04%, 
     #242B33 92.19%), 
-    url(../2/img/Rectangle.png);
+    url(../img/Rectangle.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -93,7 +93,7 @@ main{
 }
 
 .top_infa_mouse_icon{
-    background-image: url(../2/img/mouse.png);
+    background-image: url(../img/mouse.png);
     background-size: contain;
     background-position: center;
     width: 40px;
@@ -122,7 +122,7 @@ main{
 }
 
 .location_icon{
-    background-image: url(../2/img/placeholder.svg);
+    background-image: url(../img/placeholder.svg);
     background-size: contain;
     background-position: center;
     width: 20px;
@@ -130,7 +130,7 @@ main{
 }
 
 .phon_icon{
-    background-image: url(../2/img/phone-call.png);
+    background-image: url(../img/phone-call.png);
     background-size: contain;
     background-position: center;
     width: 20px;
@@ -162,19 +162,19 @@ main{
 }
 
 .park_icon{
-    background-image: url(../2/img/bench.png);
+    background-image: url(../img/bench.png);
 }
 
 .flats_icon{
-    background-image: url(../2/img/building.png);
+    background-image: url(../img/building.png);
 }
 
 .fontan_icon{
-    background-image: url(../2/img/fountain.png);
+    background-image: url(../img/fountain.png);
 }
 
 .bycical_icon{
-    background-image: url(../2/img/bicycle.png);
+    background-image: url(../img/bicycle.png);
 }
 
 .props_park, .props_flats, .props_fontan, .props_bycical{
@@ -215,7 +215,7 @@ main{
     width: calc(50% - 15px);
     background: linear-gradient(180deg, #242B33 0%, 
     rgba(36, 43, 51, 0) 0.01%, 
-    #242B33 100%), url(../2/img/123.png);
+    #242B33 100%), url(../img/123.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@ main{
 .block{
     background-image:linear-gradient(180deg, #242B33 0%, 
     rgba(36, 43, 51, 0) 0.01%, 
-    #242B33 100%), url(../2/img/1234.png);
+    #242B33 100%), url(../img/1234.png);
 }
 
 .inner_flat_block > p{
@@ -246,7 +246,7 @@ main{
     #242B33 90.1%), linear-gradient(0deg, 
     rgba(36, 43, 51, 0.9), 
     rgba(36, 43, 51, 0.9)), 
-    url(../2/img/234.png);
+    url(../img/234.png);
     width: 100%;
     height: 70vh;
     display: flex;
@@ -383,15 +383,15 @@ footer{
 }
 
 .youtube{
-    background-image: url(../2/img/youtube.png);
+    background-image: url(../img/youtube.png);
 }
 
 .vk{
-    background-image: url(../2/img/vk.png);
+    background-image: url(../img/vk.png);
 }
 
 .face{
-    background-image: url(../2/img/facebook-logo.png);
+    background-image: url(../img/facebook-logo.png);
 }
 
 .insta{
